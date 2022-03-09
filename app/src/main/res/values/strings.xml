@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appBH</string>
+    <string name="m_t_chi_ti_t_s_n_ph_m">Mô Tả Chi Tiết Sản Phẩm</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm Vào Giỏ Hàng</string>
+    <string name="g_a_250000">Gía: 250000đ</string>
+    <string name="t_n_s_n_ph_m">Tên Sản Phẩm</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+    <string name="pass">Pass</string>
+    <string name="ng_k">Đăng Kí</string>
+    <string name="nh_p_l_i_pass">Nhập lại pass</string>
+    <string name="mobile">Mobile</string>
+</resources>
